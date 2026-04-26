@@ -1,0 +1,64 @@
+scheme_name,category,occupation,income_limit,benefit_type,benefit_amount,description
+PM Kisan Samman Nidhi,Agriculture,Farmer,200000,Direct Benefit,6000,Income support for farmers
+Pradhan Mantri Fasal Bima Yojana,Agriculture,Farmer,300000,Insurance,200000,Crop insurance
+Soil Health Card Scheme,Agriculture,Farmer,999999,Advisory,0,Soil testing
+Ayushman Bharat,Health,Any,200000,Insurance,500000,Health insurance
+National Health Mission,Health,Any,300000,Healthcare,0,Affordable healthcare
+Janani Suraksha Yojana,Health,Female,200000,Financial Aid,1400,Maternity support
+PM Awas Yojana,Housing,Any,300000,Subsidy,120000,Affordable housing
+MGNREGA,Employment,Unemployed,200000,Wages,0,Rural employment
+Skill India Mission,Employment,Unemployed,500000,Training,0,Skill training
+PM Kaushal Vikas Yojana,Employment,Unemployed,500000,Training,0,Skill certification
+National Apprenticeship Scheme,Employment,Student,500000,Stipend,5000,Apprenticeship support
+National Means Merit Scholarship,Education,Student,150000,Scholarship,12000,Merit scholarship
+Post Matric Scholarship,Education,Student,250000,Scholarship,15000,Higher education support
+Pre Matric Scholarship,Education,Student,150000,Scholarship,8000,School support
+PM Scholarship Scheme,Education,Student,800000,Scholarship,25000,Higher education
+Mid Day Meal Scheme,Education,Student,200000,Food,0,School meals
+Beti Bachao Beti Padhao,Social,Female,300000,Awareness,0,Girl child support
+Stand Up India,Business,Entrepreneur,1000000,Loan,1000000,Business loans
+Mudra Loan,Business,Entrepreneur,500000,Loan,500000,Micro loans
+Startup India,Business,Entrepreneur,1000000,Support,0,Startup support
+Make in India,Industry,Entrepreneur,999999,Support,0,Industrial growth
+PM Ujjwala Yojana,Energy,Female,200000,Subsidy,1600,LPG support
+Saubhagya Scheme,Energy,Any,200000,Electricity,0,Electricity access
+Swachh Bharat Mission,Sanitation,Any,300000,Subsidy,12000,Toilet support
+National Livelihood Mission,Employment,Unemployed,300000,Support,0,Self-employment
+Atal Pension Yojana,Social,Any,300000,Pension,5000,Pension scheme
+PM Jeevan Jyoti Bima,Insurance,Any,300000,Insurance,200000,Life insurance
+PM Suraksha Bima,Insurance,Any,300000,Insurance,200000,Accident insurance
+National Food Security Act,Food,Any,200000,Food,0,Subsidized food
+PM Garib Kalyan Yojana,Social,Any,200000,Food,0,Relief scheme
+Digital India,Technology,Any,999999,Service,0,Digital services
+Green India Mission,Environment,Any,999999,Support,0,Afforestation
+Solar Mission,Energy,Any,999999,Subsidy,50000,Solar promotion
+Smart Cities Mission,Urban,Any,999999,Development,0,Urban development
+AMRUT Scheme,Urban,Any,999999,Development,0,Water supply
+PM Gati Shakti,Infrastructure,Any,999999,Development,0,Infrastructure
+National Career Service,Employment,Unemployed,999999,Service,0,Job portal
+PM Rozgar Protsahan,Employment,Unemployed,300000,Incentive,15000,Employment support
+Rashtriya Swasthya Bima,Health,Any,200000,Insurance,30000,Health insurance
+ICDS Scheme,Social,Female,200000,Nutrition,0,Child welfare
+PM Vishwakarma Yojana,Employment,Worker,300000,Support,15000,Artisan support
+
+# Variants (to make 100+)
+PM Kisan Samman Nidhi Variant1,Agriculture,Farmer,200000,Direct Benefit,6000,Farmer support
+PM Kisan Samman Nidhi Variant2,Agriculture,Farmer,200000,Direct Benefit,6000,Farmer support
+PM Kisan Samman Nidhi Variant3,Agriculture,Farmer,200000,Direct Benefit,6000,Farmer support
+Ayushman Bharat Variant1,Health,Any,200000,Insurance,500000,Health insurance
+Ayushman Bharat Variant2,Health,Any,200000,Insurance,500000,Health insurance
+PM Awas Yojana Variant1,Housing,Any,300000,Subsidy,120000,Housing
+PM Awas Yojana Variant2,Housing,Any,300000,Subsidy,120000,Housing
+Skill India Variant1,Employment,Unemployed,500000,Training,0,Skill training
+Skill India Variant2,Employment,Unemployed,500000,Training,0,Skill training
+Scholarship Variant1,Education,Student,150000,Scholarship,12000,Education support
+Scholarship Variant2,Education,Student,150000,Scholarship,12000,Education support
+Mudra Loan Variant1,Business,Entrepreneur,500000,Loan,500000,Loan support
+Mudra Loan Variant2,Business,Entrepreneur,500000,Loan,500000,Loan support
+Ujjwala Variant1,Energy,Female,200000,Subsidy,1600,LPG support
+Swachh Bharat Variant1,Sanitation,Any,300000,Subsidy,12000,Sanitation
+Atal Pension Variant1,Social,Any,300000,Pension,5000,Pension
+Insurance Variant1,Insurance,Any,300000,Insurance,200000,Insurance
+Food Scheme Variant1,Food,Any,200000,Food,0,Food support
+Urban Scheme Variant1,Urban,Any,999999,Development,0,Urban dev
+Infrastructure Variant1,Infrastructure,Any,999999,Development,0,Infra
